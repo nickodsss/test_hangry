@@ -1,0 +1,37 @@
+[
+    {
+        "name":"Kimchi Fried Rice",
+        "price": 33000,
+        "image": "https://img1.wsimg.com/isteam/ip/77e8b60a-964f-4363-8018-bf49ac359a5b/fr2.jpg/:/cr=t:0%25,l:0%25,w:100%25,h:100%25/rs=w:600,cg:true",
+        "description": "Nasi Goreng dengan bumbu ala Korea lengkap dengan Kimchi segar, Chicken Ham dan potongan ayam tanpa tulang.",
+        "availability": 10
+    },
+    {
+        "name":"Chicken Biryani Rice Bowl",
+        "price": 47900,
+        "image": "https://manganfoods.com/cdn/shop/products/ramerame-chicken-biryani-rice-7-1592813730.jpg?v=1601644870",
+        "description": "Nasi Basmati dimasak pake rempah spesial khas India, dan potongan daging ayam yang dimarinasi sampe kamu lupa kalo kamu di Indonesia, bukan di India. Makin enak pake saus Yoghurt.",
+        "availability": 10
+    },
+    {
+        "name":"Chicken Tikka Masala + Naan",
+        "price": 45900,
+        "image": "https://d1sag4ddilekf6.cloudfront.net/compressed_webp/items/IDITE20221030180525012314/detail/a3bce4bf_546hu4jetl9.webp",
+        "description": "Buat pecinta pedes, tanpa takut kena masalah perut! Potongan ayam dipanggang gaya Tikka pake saus rahasia ditambah kuah kari rempah spesial.",
+        "availability": 10
+    },
+    {
+        "name":"6 pcs Moon Fried Chicken Ala Carte",
+        "price": 126000,
+        "image": "https://assets-pergikuliner.com/AmUlpmmU2CUanHHmf2C2SuyXLQU=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/2421234/picture-1644215502.jpg",
+        "description": "6 pcs Moon Fried Chicken. Pilih 2 rasa.",
+        "availability": 10
+    },
+    {
+        "name":"Ayam Geprek Nasi Wangi Sambal Original",
+        "price": 28900,
+        "image": "https://assets-pergikuliner.com/8E4UxpYfPMImHz2k5Zbeu7nYazY=/fit-in/1366x768/smart/filters:no_upscale()/https://assets-pergikuliner.com/uploads/image/picture/1967350/picture-1594780845.jpg",
+        "description": "Nasi Wangi Terenak sejagat raya. Makannya pake Ayam Koplo Sambel Original dicampur sama Telur Orak-Arik, Serundeng dan Kremesan",
+        "availability": 10
+    }
+]

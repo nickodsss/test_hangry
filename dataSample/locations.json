@@ -1,0 +1,72 @@
+[
+    {
+        "name": "Hangry Kelapa Gading",
+        "lat": -6.174216604215815,
+        "long": 106.90494442622371
+    },
+    {
+        "name": "Hangry Pulo Gadung",
+        "lat": -6.187269920006446,
+        "long": 106.88294483068347
+    },
+    {
+        "name": "Hangry Cempaka Mas",
+        "lat": -6.164086026341274,
+        "long": 106.87413434602522
+    },
+    {
+        "name": "Hangry Cikini",
+        "lat": -6.192719996882435,
+        "long": 106.84073922161892
+    },
+    {
+        "name": "Hangry Harmoni",
+        "lat": -6.153052406463254,
+        "long": 106.82116666875906
+    },
+    {
+        "name": "Hangry Kalibata",
+        "lat": -6.261153610009851,
+        "long": 106.8445421676416
+    },
+    {
+        "name": "Hangry Bangbarung",
+        "lat": -6.580196878297845,
+        "long": 106.81030026136692
+    },
+    {
+        "name": "Hangry Setiabudi Timur",
+        "lat": -6.208074448335364,
+        "long": 106.82760942626552
+    }, 
+    {
+        "name": "Hangry Pondok Kelapa",
+        "lat": -6.238692282535402, 
+        "long": 106.93381208465827
+    },
+    {
+        "name": "Hangry Tebet",
+        "lat": -6.237508452532818,
+        "long": 106.8625629380756
+    },
+    {
+        "name": "Hangry Harapan Indah",
+        "lat": -6.18629767191627,
+        "long": 106.98045120322622
+    },
+    {
+        "name": "Hangry Taman Palem",
+        "lat": -6.138238214657027,
+        "long": 106.7266067062772
+    },
+    {
+        "name": "Hangry Kemanggisan",
+        "lat": -6.201001879876214,
+        "long": 106.79040411352152
+    },
+    {
+        "name": "Hangry PIK",
+        "lat": -6.11145410014395,
+        "long": 106.74802698078857
+    }
+]
